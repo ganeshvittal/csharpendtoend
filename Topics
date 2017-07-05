@@ -1,0 +1,14 @@
+/*Highlevel ideas*/
+
+DB Concepts
+  table designing
+  normalization
+  how to do the stuffs in code first
+  
+Design the data access layer
+
+Design the service layer
+
+Design the web layer
+
+Design the client side layer

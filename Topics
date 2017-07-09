@@ -1,6 +1,11 @@
 Environment setup:
-1) https://nodejs.org/en/download/ - Download the node .MSI install package and instapp the node package on the windows machine.
-2) http://brackets.io/ - Down brackets code editor and install the same on the windows machine
+1) https://nodejs.org/en/download/ - Download the node .MSI install package and install the node package on the windows machine.
+    a) Once the node MSI file installation is done, open Command Prompt and type node-v
+    b) This should display the node version. Example : v6.11.0
+    
+2) http://brackets.io/ - Download brackets code editor and install the same on the windows machine
+
+
 
 
 
